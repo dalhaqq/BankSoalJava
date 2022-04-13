@@ -1,0 +1,3 @@
+interface ITampil {
+    void tampilSoal();
+}
